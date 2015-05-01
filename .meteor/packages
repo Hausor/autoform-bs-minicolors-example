@@ -8,5 +8,5 @@ meteor-platform
 autopublish
 insecure
 twbs:bootstrap
-hausor:autoform-bs-minicolors
 aldeed:autoform
+hausor:autoform-bs-minicolors
